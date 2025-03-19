@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Harminder13  
+# 👋 Hi, I’m Harminder Saini 
 
 ## 👀 About Me  
 - 📊 **Data Science Enthusiast** with expertise in Python, PyTorch, and financial analysis  
