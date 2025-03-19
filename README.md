@@ -21,7 +21,7 @@
 ---
 
 ## 📫 How to reach me:  
-[💼 LinkedIn]([https://www.linkedin.com/in/harmindersainin](https://www.linkedin.com/in/harminder-saini1/))  
+[💼 LinkedIn](https://www.linkedin.com/in/harminder-saini1/)  
 
 ---
 
