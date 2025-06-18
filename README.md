@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Harminder Saini 
 
 ## 👀 About Me  
-- 📊 **Data Science Enthusiast** with experience in Python, PyTorch, and financial analysis  
 - 🤖 Strong background in **machine learning** and **computer vision**  
 - 💡 Passionate about applying analytical skills to solve complex financial challenges and deliver actionable insights  
 
@@ -9,7 +8,6 @@
 
 ## 🌱 I’m currently learning:  
 - 🚀 Advanced machine learning and AI with PyTorch  
-- 🚀 Financial modeling and quantitative analysis  
 
 ---
 
