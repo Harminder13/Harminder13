@@ -1,9 +1,3 @@
-# 👋 Hi, I’m Harminder Saini 
-
-## 👀 About Me  
-- 🤖 Strong background in **machine learning** and **computer vision**  
-- 💡 Passionate about applying analytical skills to solve complex financial challenges and deliver actionable insights  
-
 ---
 
 ## 📫 How to reach me:  
