@@ -6,25 +6,8 @@
 
 ---
 
-## 🌱 I’m currently learning:  
-- 🚀 Advanced machine learning and AI with PyTorch  
-
----
-
-## 💞️ I’m looking to collaborate on:  
-- 🔎 Data science and machine learning projects  
-- 🔎 Financial analysis and predictive modeling  
-- 🔎 AI-driven solutions for financial markets  
-
----
-
 ## 📫 How to reach me:  
 [💼 LinkedIn](https://www.linkedin.com/in/harminder-saini1/)  
-
----
-
-## ⚡ Fun fact:  
-🍦 I’m obsessed with ice cream sandwiches. Seriously.  
 
 ---
 
